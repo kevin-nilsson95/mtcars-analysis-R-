@@ -3,4 +3,4 @@ What car specifics are efficient on an environmental and economic perspective fo
 R-programming was used for the analysis.
 
 # CAPM-analysis-excel-
-Risk analysis for Embracer, SBB, Industrivärlden, Investor and Apple
+Risk analysis for Embracer, SBB, Industrivärlden, Investor and Apple.
